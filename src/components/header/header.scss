@@ -1,0 +1,31 @@
+// .header_navbar{
+//     position: fixed;
+//     display: flex;
+//     z-index: 11;
+//     align-items: self-start;
+//     justify-content: center;
+//     margin-left: 130px;
+//     // margin-top: 0;
+// }
+.navbar {
+    padding: 15px 0;
+    height: 60px;
+}
+
+
+.navabr_item1 {
+    display: flex;
+    gap: 0 105px;
+}
+
+.navbar_list {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar_heart {
+    padding-right: 20px;
+}
+

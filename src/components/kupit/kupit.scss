@@ -1,0 +1,134 @@
+.kupit_section {
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+
+.kupit_name {
+    color: #838383;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.batafsil {
+    width: 1240px;
+    height: 670px;
+    border-radius: 30px;
+    background-color: #fff;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+
+}
+
+.kupit_inner {
+    color: #1C1C27;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    // margin-left: 35px;
+    // margin-top: 150px;
+}
+
+.kupit_img {
+    width: 500px;
+    height: 500px;
+}
+
+.kupit_price {
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.kupit_inner_price {
+    color: #DF6464;
+    text-align: center;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+// .heart{
+//     margin-top: 20px;
+//     margin-right: 1180px;
+// }
+.heart_imgs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+}
+
+.xarakter {
+    width: 825px;
+    height: 520px;
+    background-color: #F9F9F9;
+    border-radius: 30px;
+    margin-top: 25px;
+
+}
+
+.xarakter_name {
+    width: 825px;
+    height: 65px;
+    background-color: #fff;
+    border-radius: 30px 30px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    p {
+        color: #1C1C27;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        margin-left: 23px;
+    }
+}
+
+.xarakter_list {
+    margin-left: 23px;
+}
+
+.xarakter_list_item {
+    color: #1C1C27;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 9px;
+}
+
+.kupit_btn1 {
+    display: flex;
+}
+.btns {
+    margin-top: 25px;
+    margin-left: 31px;
+
+}
+.innner_btn {
+    padding: 13px 86px;
+    color: #fff;
+    border-radius: 10px;
+    background: #101010;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.50);
+}
+.inner_btn {
+    margin-top: 18px;
+    padding: 13px 50px;
+    color: #fff;
+    border-radius: 10px;
+    background: #101010;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.50);
+}

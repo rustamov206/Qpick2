@@ -1,0 +1,86 @@
+.apple-img {
+    width: 219.608px;
+    height: 237.451px;
+    position: relative;
+    z-index: 0;
+}
+.heart {
+    position: absolute;
+    z-index: 1111;
+    margin-right: 300px;
+    margin-bottom: 350px;
+}
+
+.quloqchinlar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap:  30px 70px;
+}
+
+.naushnik {
+    margin: 30px 0;
+    color: #838383;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
+
+.apple-name {
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #1C1C27;
+}
+
+.apple-price {
+    color: #FFA542;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
+
+
+.nomi {
+    gap: 0 105px;
+    margin-top: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.quloqchin-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 407.647px;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+
+
+.rating {
+    margin-left: 30px;
+}
+
+.star {
+    gap: 0 10px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.star-number {
+    margin-right: 280px;
+
+}

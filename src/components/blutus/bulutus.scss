@@ -1,0 +1,104 @@
+.blutus_section{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 0 70px;
+}
+
+.bulutus-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 407.647px;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+.blutus {
+    margin: 30px 0;
+    color: #838383;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.rating {
+    margin-left: 30px;
+}
+
+.star {
+    gap: 0 10px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.star-number {
+    margin-right: 280px;
+
+}
+
+.bulutus-img {
+    width: 219.608px;
+    height: 237.451px;
+    position: relative;
+}
+.heart {
+    position: absolute;
+    z-index: 1111;
+    margin-right: 300px;
+    margin-bottom: 350px;
+}
+
+.name {
+    gap: 0 105px;
+    margin-top: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bulutus-name {
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #1C1C27;
+}
+
+.bulutus-price {
+    color: #FFA542;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
+.reklama {
+    width: 1240px;
+    height: 197px;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 120px;
+}
+
+.reklama_title {
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.reklama_img {
+    margin-bottom: 40px;
+    
+}

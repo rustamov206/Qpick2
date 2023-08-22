@@ -1,0 +1,249 @@
+.zakaz_name {
+    margin-top: 30px;
+    color: #1C1C27;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.big_zakaz_section {
+    margin-top: 13px;
+    display: flex;
+
+
+}
+
+// .zakaz_info {
+//     width: 445px;
+//     height: 513px;
+//     border-radius: 30px;
+//     background: #FFF;
+//     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+// }
+
+.vash_zakaz {
+    margin-left: 30px;
+}
+
+.vash_zakaz_itogo {
+    width: 444.439px;
+    height: 155px;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+.oplati {
+    margin-top: 14px;
+    width: 445px;
+    height: 127px;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+.contact_number {
+    margin-top: 30px;
+    width: 441px;
+    height: 124px;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+
+
+.input-card {
+    width: 445px;
+    height: 513px;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+    padding: 20px;
+    margin-bottom: 180px;
+}
+
+.input-card-top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+    .input-card-top-h4 {
+        color: #000;
+        font-family: Montserrat;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+
+    .input-card-top-price-h4 {
+        color: #000;
+        text-align: right;
+        font-family: Montserrat;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+}
+
+.input-card-middle {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 22px;
+}
+
+.input-card-bottom {
+    .input-card-bottom-h4 {
+        color: #000;
+        font-family: Montserrat;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-bottom: 18px;
+    }
+}
+
+.inputs-wrapper {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.input-mini-wrap {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.input {
+    width: 410.867px;
+    height: 45px;
+    border-radius: 15px;
+    background: #D6D6D6;
+    border: none;
+    outline: none;
+    padding: 20px;
+    color: #8E8E8E;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.input-mini {
+    width: 164.06px;
+    height: 45px;
+    border-radius: 15px;
+    background: #D6D6D6;
+    border: none;
+    outline: none;
+    padding: 20px;
+    color: #8E8E8E;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.vash_zakaz_itogo_inner_price {
+    padding: 15px 20px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.vash_zakaz_itogo_name {
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.vash_zakaz_itogo_price {
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.div2 {
+    padding-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.div3 {
+    padding-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.vash_zakaz_oplati_name {
+    padding: 15px 20px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.contact_number_input {
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+
+    .number-card-input {
+        width: 418px;
+        height: 45px;
+        border-radius: 15px;
+        background: #D6D6D6;
+        color: #8E8E8E;
+        font-family: Montserrat;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        padding: 20px;
+        outline: none;
+        border: none;
+    }
+}
+
+.contact_number_title {
+    color: #000;
+    padding: 15px 20px;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.zakaz_ofar {
+    margin-top: 25px;
+    padding: 20px 150px;
+    border-radius: 10px;
+    background: #101010;
+    box-shadow: 0px 0px 20px 0px rgba(67, 216, 84, 0.25);
+    color: #FFF;
+}

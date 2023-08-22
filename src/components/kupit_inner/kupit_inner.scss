@@ -1,0 +1,116 @@
+.kupit_inner_title {
+    margin-top: 30px;
+    color: #1C1C27;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.kupit_inner_item {
+    margin-top: 13px;
+    width: 633px;
+    height: 218px;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+.kupit_inner_img {
+    width: 146.528px;
+    height: 136px;
+}
+
+.kupit_inner_map {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 13px;
+    width: 633px;
+    height: 288px;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+.map_dastavka {
+    padding: 15px 0 17px 22px;
+    margin-right: 495px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.inner_map {
+    border-radius: 10px;
+}
+
+.zakaz {
+    margin-top: 20px;
+    width: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.zakaz_rayon {
+    margin-left: 17px;
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.dastavka_price {
+    color: #1C1C27;
+    text-align: right;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.kupit_itogo {
+    margin-top: 13px;
+    width: 348.98px;
+    height: 130px;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+.inner_twice {
+    display: flex;
+    justify-content: space-between;
+}
+
+.itogo_name {
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.itogo_price_inner {
+    color: #000;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.itogo_price {
+    margin: 22px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.itogo_btn {
+    width: 348.98px;
+    height: 65px;
+    border-radius: 20px;
+    background: #101010;
+    color: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+}
