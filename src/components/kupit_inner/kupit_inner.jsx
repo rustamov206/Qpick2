@@ -1,9 +1,11 @@
+// import sass
 import "./kupit_inner.scss"
-
+// import imges
 import Map from "../../assets/svg/map.svg"
 import Kamaz from "../../assets/svg/kamaz.svg"
+// import NavLink
 import { NavLink } from 'react-router-dom';
-
+// import React hooks
 import {useEffect , useState} from "react"
 
 function Kupit_inner() {

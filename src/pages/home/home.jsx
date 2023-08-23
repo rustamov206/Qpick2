@@ -1,3 +1,4 @@
+// import components
 import Blutus from "../../components/blutus/bulutus"
 import Cards from "../../components/cards/cards"
 import Hero from "../../components/hero/hero"

@@ -1,8 +1,12 @@
+// import sass
 import "./zakaz.scss"
+
 
 // import {useEffect , useState} from 'react'
 // import { useParams } from "react-router-dom";
 
+
+// import img
 import Map from "../../assets/svg/map.svg"
 
 

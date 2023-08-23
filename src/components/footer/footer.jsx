@@ -1,7 +1,9 @@
+// import sass
 import "./footer.scss"
-
+// import imges
 import Logo from "../../assets/svg/QPICK.svg"
 import Social from "../../assets/svg/Social.svg"
+// import NavLink
 import { NavLink } from 'react-router-dom';
 
 

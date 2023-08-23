@@ -1,5 +1,8 @@
+// import sass
 import "./bulutus.scss"
+// import Data
 import { comeData2 } from "../../data/blutus"
+// import imges
 import Raeting from "../../assets/svg/Vector (5).svg"
 import Heart from "../../assets/svg/Vector (6).svg"
 import Iphone from "../../assets/svg/13pro.svg"

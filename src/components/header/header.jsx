@@ -1,9 +1,10 @@
+// import sass
 import "./header.scss"
 // import imges
 import Logo from "../../assets/svg/QPICK.svg"
 import Heart from "../../assets/svg/Vector (3).svg"
 import Korzinka from "../../assets/svg/Vector (4).svg"
-
+// import NavLink
 import { NavLink } from "react-router-dom"
 
 function Header() {

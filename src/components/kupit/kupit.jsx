@@ -1,8 +1,13 @@
+// import sass
 import "./kupit.scss"
+// import React hooks
 import { useEffect, useState } from "react"
+
 import {useParams} from "react-router-dom"
+// import imges
 import Heart from "../../assets/svg/Vector (6).svg"
 import Logo from "../../assets/svg/image 11.svg"
+// import NavLink
 import { NavLink } from 'react-router-dom';
 
 function Kupit() {

@@ -1,4 +1,6 @@
+// import sass
 import "./contact.scss"
+// import imges
 import Big from "../../assets/svg/big.svg"
 import Whatsapps from "../../assets/svg/1.svg"
 import Instagram from "../../assets/svg/Instagram (1).svg"

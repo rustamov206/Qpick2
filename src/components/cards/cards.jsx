@@ -1,5 +1,6 @@
+// import sass
 import "./cards.scss"
-
+// import img
 import Chihol from "../../assets/svg/img.svg"
 
 

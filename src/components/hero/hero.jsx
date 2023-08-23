@@ -1,7 +1,11 @@
+// import sass
 import "./hero.scss"
+// import react Hooks
 import {useEffect , useState} from "react"
+// import imges
 import Raeting from "../../assets/svg/Vector (5).svg"
 import Heart from "../../assets/svg/Vector (6).svg"
+// import Navlink
 import { NavLink } from 'react-router-dom';
 
 
