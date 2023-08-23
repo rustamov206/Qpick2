@@ -95,19 +95,19 @@
     margin-bottom: 22px;
 }
 
-.input-card-bottom {
-    .input-card-bottom-h4 {
-        color: #000;
-        font-family: Montserrat;
-        font-size: 15px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: normal;
-        margin-bottom: 18px;
-    }
+
+.input-card-adres {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 18px;
 }
 
-.inputs-wrapper {
+
+.inputs {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
@@ -115,14 +115,14 @@
     margin-bottom: 10px;
 }
 
-.input-mini-wrap {
+.inputs_wrap {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-.input {
+.input1 {
     width: 410.867px;
     height: 45px;
     border-radius: 15px;
@@ -138,7 +138,7 @@
     line-height: normal;
 }
 
-.input-mini {
+.input2 {
     width: 164.06px;
     height: 45px;
     border-radius: 15px;

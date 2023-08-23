@@ -29,21 +29,21 @@ function Zakaz() {
                             </div>
 
                             <div className="input-card-middle">
-                                <img src={Map} alt="Network ERROR" width={'375px'} height={'146px'} />
+                                <img src={Map} alt="" width={'375px'} height={'146px'} />
                             </div>
 
-                            <div className="input-card-bottom">
-                                <h4 className="input-card-bottom-h4">Адрес доставки</h4>
+                            <div className="input-cards">
+                                <h4 className="input-card-adres">Адрес доставки</h4>
 
-                                <div className="inputs-wrapper">
-                                    <input className="input" type="text" placeholder="Город" />
-                                    <input className="input" type="text" placeholder="Улица / Район" />
+                                <div className="inputs">
+                                    <input className="input1" type="text" placeholder="Город" />
+                                    <input className="input1" type="text" placeholder="Улица / Район" />
                                 </div>
 
-                                <div className="input-mini-wrap">
-                                    <input className="input-mini" type="text" placeholder="Дом" />
-                                    <input className="input-mini" type="text" placeholder="Подъезд" />
-                                    <input className="input-mini" type="text" placeholder="Квартира" />
+                                <div className="inputs_wrap">
+                                    <input className="input2" type="text" placeholder="Дом" />
+                                    <input className="input2" type="text" placeholder="Подъезд" />
+                                    <input className="input2" type="text" placeholder="Квартира" />
                                 </div>
                             </div>
 
